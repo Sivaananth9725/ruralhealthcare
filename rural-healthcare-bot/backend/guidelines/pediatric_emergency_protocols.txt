@@ -1,0 +1,442 @@
+PEDIATRIC EMERGENCY PROTOCOLS
+=============================
+
+SECTION 1: PEDIATRIC ASSESSMENT
+==============================
+
+Age-Based Vital Signs (Normal Ranges):
+
+Newborn (0-3 months):
+- Heart rate: 100-160 bpm
+- Respiratory rate: 40-60 breaths/min
+- Blood pressure: 50-70/25-45 mmHg
+- Temperature: 36.5-37.5°C
+
+Infant (3-12 months):
+- Heart rate: 100-160 bpm
+- Respiratory rate: 30-40 breaths/min
+- Blood pressure: 80-100/50-60 mmHg
+- Temperature: 36.5-37.5°C
+
+Toddler (1-3 years):
+- Heart rate: 90-150 bpm
+- Respiratory rate: 25-35 breaths/min
+- Blood pressure: 90-105/55-70 mmHg
+- Temperature: 36.5-37.5°C
+
+Preschool (3-6 years):
+- Heart rate: 80-120 bpm
+- Respiratory rate: 22-30 breaths/min
+- Blood pressure: 95-110/60-75 mmHg
+- Temperature: 36.5-37.5°C
+
+School Age (6-12 years):
+- Heart rate: 70-110 bpm
+- Respiratory rate: 18-26 breaths/min
+- Blood pressure: 105-135/70-85 mmHg
+- Temperature: 36.5-37.5°C
+
+Adolescent (12-18 years):
+- Heart rate: 60-100 bpm
+- Respiratory rate: 12-20 breaths/min
+- Blood pressure: 110-140/70-90 mmHg
+- Temperature: 36.5-37.5°C
+
+Pediatric ABCDE Approach:
+A - Appearance (alertness, activity, interaction)
+B - Breathing (work of breathing, air exchange)
+C - Circulation (heart rate, skin perfusion, blood pressure)
+D - Disability (neurological status, glucose)
+E - Exposure (complete examination, maintain temperature)
+
+SECTION 2: RESPIRATORY DISTRESS IN CHILDREN
+=============================================
+
+Signs of Respiratory Distress:
+- Fast breathing (tachypnea)
+- Chest indrawing (lower chest, upper abdomen drawn in)
+- Nasal flaring
+- Grunting (expiratory sound)
+- Use of neck muscles
+- Stridor (musical breathing sound)
+- Wheezing (whistling sound)
+- Difficulty speaking/crying
+- Lethargy or agitation
+- Cyanosis (blue color)
+
+Respiratory Rate Thresholds for Tachypnea:
+< 2 months: ≥ 50 breaths/min
+2-11 months: ≥ 40 breaths/min
+12-59 months: ≥ 40 breaths/min
+≥ 5 years: ≥ 30 breaths/min
+
+Causes:
+- Pneumonia
+- Bronchiolitis
+- Asthma
+- Croup
+- Whooping cough
+- Foreign body aspiration
+- Sepsis
+- Heart disease
+- Anemia
+- Metabolic acidosis
+
+URGENT REFERRAL (HIGH) Required For:
+- Severe chest indrawing
+- Stridor at rest
+- Grunting
+- Cyanosis
+- Severe lethargy
+- Inability to drink
+
+SECTION 3: SEVERE DIARRHEA AND DEHYDRATION
+=========================================
+
+Dehydration Classification:
+
+MILD-MODERATE (3-7% fluid loss):
+- Alert, normal behavior
+- Normal eyes
+- Drinks normally
+- Skin pinch goes back quickly (< 2 seconds)
+- Urine output: decreased
+- Mucous membranes: slightly dry
+
+SEVERE (≥ 10% fluid loss):
+- Lethargy or restlessness
+- Sunken eyes
+- Drinks poorly or unable to drink
+- Skin pinch goes back slowly (> 2 seconds)
+- Urine: minimal or absent
+- Mucous membranes: very dry
+- May have weak pulse
+- May be cold/clammy
+- May have shock
+
+REFER URGENTLY (HIGH) For:
+- Severe dehydration signs
+- Unable to drink
+- Persistent vomiting
+- Bloody diarrhea
+- Severe malnutrition
+- Age < 6 months
+- Signs of shock
+- Severe abdominal pain
+
+Management:
+- ORS 50-100 mL/kg over 4 hours
+- After each stool: 10 mL/kg ORS
+- Continue breastfeeding
+- Reassess after 4 hours
+- If no improvement: refer
+- If improved: maintenance + replacement
+
+SECTION 4: FEVER IN YOUNG CHILDREN
+=================================
+
+Temperature Recording:
+- Rectal: most accurate in infants
+- Axillary: convenient, slightly lower
+- Oral: use after 5 years
+- Tympanic: variable accuracy
+
+Assessment:
+- Duration and pattern
+- Associated symptoms
+- Vaccination status
+- Risk factors for serious infection
+- Appearance and behavior
+
+Red Flags in Febrile Children (HIGH):
+- Age < 3 months
+- Very high fever (> 40°C)
+- Fever with petechial rash (non-blanching)
+- Stiff neck
+- Bulging fontanelle (in infants)
+- Altered consciousness
+- Severe lethargy
+- Convulsions
+- Severe respiratory distress
+- Unable to drink
+
+REFER URGENTLY (HIGH) For:
+- Any fever in child < 3 months
+- Fever with any red flag symptoms
+- Fever > 7 days without clear cause
+- Fever with meningeal signs
+
+Management:
+- Temperature control
+- Hydration
+- Identify cause
+- Treat underlying condition
+- Monitor for complications
+
+SECTION 5: SEIZURES IN CHILDREN
+===============================
+
+Types:
+- Febrile seizures (with fever)
+- Epilepsy (recurrent)
+- Hypoglycemic seizures
+- Infections (meningitis, encephalitis)
+- Trauma
+- Toxins
+
+During Seizure:
+1. Keep calm and stay with child
+2. Prevent injury:
+   - Remove hard objects
+   - Cushion head
+   - Loosen tight clothing
+   - Do NOT restrain
+3. Position:
+   - Turn to side if possible
+   - Keep airway open
+   - Prevent aspiration
+4. Note:
+   - Time of onset
+   - Duration
+   - Body parts affected
+   - Incontinence
+   - Injury
+
+After Seizure:
+1. Check breathing and consciousness
+2. Monitor vital signs
+3. Place in recovery position
+4. Monitor for second seizure
+5. Do NOT give anything orally until fully conscious
+
+REFER URGENTLY (HIGH) For:
+- First-time seizure
+- Seizure lasting > 5 minutes
+- Multiple seizures without full recovery
+- Injury from seizure
+- Seizure with fever and stiff neck
+- Status epilepticus (continuous seizures)
+
+Management:
+- Airway management if needed
+- Medication: diazepam (if available) for active seizure
+- Treat underlying cause
+- Prevent injury
+- Monitor recovery
+
+SECTION 6: ACUTE MALARIA IN CHILDREN
+====================================
+
+Symptoms:
+- High fever (often sudden)
+- Chills and sweating
+- Headache
+- Body aches
+- Weakness
+- Vomiting
+- Diarrhea
+- Cough (sometimes)
+
+Severe Malaria (REFER URGENTLY - HIGH):
+- Altered consciousness/coma
+- Severe anemia (pallor)
+- Respiratory distress
+- Severe malnutrition
+- Hypoglycemia (low blood sugar)
+- Acidosis (deep, rapid breathing)
+- Acute kidney injury
+- Cerebral malaria (seizures, coma)
+- Severe bleeding
+
+Assessment:
+- Where is child from (endemic area?)
+- Any travel to malaria areas?
+- Fever pattern?
+- Associated symptoms?
+
+Management:
+- Immediate anti-malarial treatment
+- Treat complications
+- Hydration
+- Temperature control
+- Monitor for severe features
+
+Antimalarial Treatment (depends on region):
+- Artemether (injectable)
+- Artemisinin-based combinations (oral)
+- Quinine (if artemisinin unavailable)
+
+SECTION 7: ACUTE FLACCID PARALYSIS
+==================================
+
+Causes:
+- Polio
+- Guillain-Barré syndrome
+- Myasthenia gravis
+- Botulism
+- Spinal cord injury
+- Tick paralysis
+- Porphyria
+- Hyperkalemia
+
+Assessment:
+- Onset (sudden vs gradual)
+- Progression (ascending vs descending)
+- Symmetry (bilateral vs unilateral)
+- Sensory changes
+- Associated symptoms
+
+Danger Signs:
+- Respiratory muscle involvement (breathing difficulty)
+- Bulbar involvement (difficulty swallowing)
+- Autonomic involvement (blood pressure, heart rate changes)
+
+REFER URGENTLY (HIGH) For:
+- Any acute paralysis
+- Respiratory involvement
+- Polio suspected (unvaccinated child with flaccid paralysis)
+- Associated with fever and neck stiffness
+
+Management:
+- Maintain airway
+- Respiratory support if needed
+- Nutrition support
+- Prevent complications
+- Identify cause
+
+SECTION 8: SEVERE ACUTE MALNUTRITION (SAM)
+===========================================
+
+Signs:
+- Weight < 70% of expected for age
+- Mid-upper arm circumference < 11.5 cm
+- Bilateral pitting edema (kwashiorkor)
+- Visible ribs, hip bones, spine
+
+Complications (REFER URGENTLY - HIGH):
+- Hypoglycemia
+- Severe infections
+- Heart failure
+- Breathing difficulty
+- Severe anemia
+- Metabolic derangements
+
+Assessment:
+- Nutritional status
+- Vaccination status
+- Developmental milestone
+- Infectious disease status
+- Micronutrient deficiencies
+
+Management:
+- Nutritional rehabilitation
+- Treat infections
+- Correct electrolyte abnormalities
+- Careful feeding (refeeding syndrome risk)
+- Micronutrient supplementation
+- Psychosocial support
+- Follow-up care
+
+SECTION 9: NEONATAL COMPLICATIONS (First 28 Days)
+================================================
+
+Birth Asphyxia:
+- Not breathing at birth
+- Blue color
+- Poor muscle tone
+- Poor reflexes
+
+Management:
+- Clear airway
+- Dry and stimulate
+- If no breathing after 10 seconds: start rescue breaths
+- Refer URGENTLY - HIGH
+
+Preterm Infant (< 37 weeks):
+- Risk of multiple complications
+- Respiratory distress
+- Difficulty feeding
+- Temperature instability
+- Infection risk
+
+Management:
+- Warmth (skin-to-skin if stable)
+- Support feeding
+- Monitor closely
+- Infection prevention
+- Refer if problems
+
+Neonatal Sepsis:
+Signs (Can be Subtle):
+- Fever or low temperature
+- Poor feeding
+- Lethargy
+- Irritability
+- Convulsions
+- Bleeding
+- Jaundice
+- Respiratory distress
+
+REFER URGENTLY (HIGH) For Any Signs of Infection
+
+Prevention:
+- Clean delivery
+- Cord care
+- Clean feeding
+- Breastfeeding
+- Vaccination
+
+Neonatal Tetanus:
+Signs:
+- Appears well for first 3-10 days
+- Difficulty opening mouth (lockjaw)
+- Stiffness
+- Convulsions
+- Respiratory difficulty
+
+Prevention (Most Important):
+- Maternal tetanus vaccination during pregnancy
+- Clean delivery
+- Clean cord care
+
+SECTION 10: PEDIATRIC EMERGENCY MEDICATIONS
+===========================================
+
+Dosing by Weight (common medications):
+
+Paracetamol (for fever/pain):
+- 15 mg/kg/dose
+- Every 4-6 hours
+- Maximum 5 doses/24 hours
+
+Ibuprofen (for fever/pain):
+- 10 mg/kg/dose
+- Every 6-8 hours
+- Maximum 40 mg/kg/day
+
+Amoxicillin (antibiotic):
+- 25-45 mg/kg/day divided into 3 doses
+- For infections
+
+Metronidazole (anti-parasitic/antibiotic):
+- 7.5 mg/kg/dose
+- 3 times daily
+- For certain infections
+
+Diazepam (for seizures):
+- 0.1-0.3 mg/kg/dose IV/IM
+- Or 0.5 mg/kg rectally
+- Maximum single dose 10 mg
+
+Dextrose 10% (for hypoglycemia):
+- 2-5 mL/kg IV if possible
+- Or 15-20 grams orally if conscious
+
+Important:
+- Calculate dosages carefully
+- Use age-appropriate routes
+- Monitor for side effects
+- Document administration
+
+END OF PEDIATRIC EMERGENCY PROTOCOLS
+====================================

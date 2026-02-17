@@ -1,0 +1,502 @@
+INFECTIOUS DISEASE SURVEILLANCE AND CONTROL
+============================================
+
+SECTION 1: DISEASE SURVEILLANCE
+==============================
+
+Reportable Diseases (Routine):
+- Tuberculosis
+- HIV/AIDS
+- Hepatitis
+- Typhoid fever
+- Dengue fever
+- Malaria
+- Diarrheal diseases
+- Respiratory infections
+- Sexually transmitted infections
+- Vaccine-preventable diseases
+
+Surveillance Functions:
+1. Case identification
+2. Case confirmation
+3. Reporting
+4. Data analysis
+5. Response implementation
+6. Follow-up
+7. Evaluation
+
+Outbreak Investigation:
+- Define cases
+- Count cases
+- Calculate incidence/prevalence
+- Identify common source
+- Implement control measures
+- Provide feedback to community
+
+SECTION 2: TUBERCULOSIS (TB)
+============================
+
+Transmission:
+- Airborne (through respiratory droplets)
+- Prolonged close contact (> 8 hours)
+- Usually active pulmonary TB
+
+Risk Factors:
+- HIV infection
+- Malnutrition
+- Diabetes
+- Chronic kidney disease
+- Immunosuppression
+- Crowded living conditions
+- Smoking
+- Alcohol abuse
+
+Symptoms (Pulmonary TB):
+- Chronic cough (> 3 weeks)
+- Hemoptysis (coughing blood)
+- Chest pain
+- Fever
+- Night sweats
+- Weight loss
+- General weakness
+
+Diagnosis:
+- Sputum smear microscopy (if available)
+- Chest X-ray
+- GeneXpert MTB/RIF (if available)
+- Clinical symptoms
+
+Treatment:
+- Standard: 6-month course
+- Intensive phase: 2 months (Isoniazid, Rifampicin, Pyrazinamide, Ethambutol)
+- Continuation phase: 4 months (Isoniazid, Rifampicin)
+- Directly Observed Therapy (DOT) - staff witnesses each dose
+- Adherence critical
+
+Complications if Untreated:
+- Disseminated TB
+- TB meningitis
+- TB of bones/joints
+- Chronic lung damage
+- Death
+
+Prevention:
+- BCG vaccination
+- Infection control
+- Nutritional support
+- TB preventive therapy for HIV patients
+- Smoking cessation
+
+Contact Investigation:
+- Identify close contacts
+- Screen for TB
+- Treat latent TB if positive
+
+Refer to TB clinic/specialist
+
+SECTION 3: HIV/AIDS
+==================
+
+Transmission:
+- Sexual contact (unprotected)
+- Blood-to-blood contact (shared needles)
+- Mother-to-child (pregnancy, delivery, breastfeeding)
+- Blood transfusion
+
+Stages:
+Stage 1: Acute infection
+- Fever, rash, lymphadenopathy
+- Often mistaken for flu
+
+Stage 2: Asymptomatic (can last years)
+- CD4 count declining
+- Person is infectious
+
+Stage 3: Symptomatic HIV
+- CD4 count 200-500
+- Opportunistic infections begin
+- Symptoms depending on CD4 level
+
+Stage 4: AIDS (CD4 < 200)
+- Severe opportunistic infections
+- Cryptococcal meningitis
+- Tuberculosis
+- Pneumocystis pneumonia
+- Cytomegalovirus
+- Toxoplasmosis
+- Candidiasis
+
+Diagnosis:
+- Rapid antibody test
+- Western blot confirmation
+- CD4 count
+- Viral load
+
+Treatment (ART - Antiretroviral Therapy):
+- Start when CD4 < 350 or diagnosed
+- Usually triple therapy
+- High adherence essential
+- Regular monitoring
+- Refer to HIV specialist
+
+Prevention:
+- Safe sex practices
+- Condoms
+- Testing of blood products
+- Prevention of mother-to-child transmission
+- Post-exposure prophylaxis (if exposed)
+
+Support:
+- Counseling
+- Nutritional support
+- Opportunistic infection prevention/treatment
+- Psychosocial support
+- Disclosure considerations
+- Partner notification
+
+SECTION 4: HEPATITIS
+===================
+
+Hepatitis A:
+- Transmission: Fecal-oral (contaminated food/water)
+- Symptoms: Fever, jaundice, abdominal pain, diarrhea
+- Acute only, no chronic
+- Prevention: Sanitation, vaccination, hand hygiene
+- Recovery: Usually 4-6 weeks
+
+Hepatitis B:
+- Transmission: Blood, sexual contact, mother-to-child
+- Can be chronic
+- Prevention: Vaccination, safe practices
+- Treatment: Antivirals if chronic
+- Monitor for liver damage
+- Screen contacts
+
+Hepatitis C:
+- Transmission: Bloodborne (needles, transfusion)
+- Can be chronic
+- Treatment: Antivirals (expensive)
+- Screen for chronic infection
+
+Hepatitis E:
+- Transmission: Fecal-oral
+- Usually self-limited
+- Severe in pregnant women
+- Prevention: Safe water, sanitation
+
+Symptoms (General):
+- Jaundice (yellowing of skin/eyes)
+- Fatigue
+- Abdominal pain
+- Nausea/vomiting
+- Dark urine
+- Pale stools
+- Fever (sometimes)
+
+Diagnosis:
+- Liver function tests
+- Serologic tests
+- Ultrasound
+
+Management:
+- Supportive care
+- Monitor for complications
+- Refer if severe
+- Prevent transmission
+- Vaccination (if available)
+
+Complications:
+- Fulminant hepatic failure (REFER URGENTLY)
+- Cirrhosis (chronic)
+- Hepatocellular carcinoma (chronic)
+
+SECTION 5: SEXUALLY TRANSMITTED INFECTIONS (STIs)
+==============================================
+
+Common STIs:
+
+Gonorrhea:
+- Symptoms: Urethral discharge, dysuria, pelvic pain
+- Complications: Pelvic inflammatory disease, infertility
+- Treatment: Antibiotics (resistance developing)
+- Screen: Urine culture
+
+Chlamydia:
+- Often asymptomatic
+- Complications: PID, infertility, ectopic pregnancy
+- Treatment: Antibiotics
+- Screen: Urine tests, swabs
+
+Syphilis:
+- Stages: Primary (ulcer), secondary (rash), tertiary (late complications)
+- Congenital: Affects fetus/newborn
+- Diagnosis: Blood tests
+- Treatment: Penicillin
+- Early treatment prevents complications
+
+Herpes Simplex:
+- Recurrent painful vesicles/ulcers
+- Treatment: Antivirals for symptoms
+- Prevent transmission
+- Cesarean if active at delivery
+
+HPV (Human Papillomavirus):
+- Often asymptomatic
+- Can cause cervical cancer
+- Prevention: Vaccination
+- Diagnosis: Cervical smear
+- Treatment: Ablation/excision
+
+Trichomonas:
+- Vaginal discharge, dysuria
+- Treatment: Metronidazole
+- Treat partners
+
+Management of STIs:
+1. Diagnosis confirmation
+2. Partner notification and treatment
+3. Appropriate antibiotics
+4. Follow-up testing (cure verification)
+5. Safe sex education
+6. Complication screening
+7. Psychological support
+
+Prevention:
+- Condoms
+- Monogamy
+- STI screening
+- Partner treatment
+- Sexual education
+- Vaccination (HPV)
+
+SECTION 6: DISEASE CONTROL AND PREVENTION
+=========================================
+
+Infection Control Measures:
+
+Standard Precautions:
+- Hand hygiene
+- Personal protective equipment (PPE)
+- Respiratory hygiene
+- Safe injection practices
+- Safe waste disposal
+- Environmental cleaning
+
+Airborne Precautions:
+- Negative pressure room (if available)
+- N95 respirators
+- For: TB, measles, chickenpox
+
+Droplet Precautions:
+- Masks for close contact
+- For: Flu, pertussis, meningitis
+
+Contact Precautions:
+- Gloves, gowns
+- For: Diarrheal diseases, skin infections
+
+Isolation:
+- Separate from other patients
+- Dedicated staff if possible
+- Dedicated equipment
+- Special ventilation
+
+Quarantine:
+- Expose individuals kept from community
+- For: Potential disease exposure
+- Typically 10-14 days
+
+Outbreak Response:
+1. Confirm outbreak exists
+2. Investigate source
+3. Implement immediate control measures
+4. Identify and manage cases
+5. Prevent transmission
+6. Provide treatment
+7. Communicate with community
+8. Document and report
+9. Evaluate response
+10. Implement long-term prevention
+
+SECTION 7: VECTOR-BORNE DISEASE CONTROL
+======================================
+
+Malaria Vector Control:
+- Bed net distribution
+- Indoor residual spraying
+- Larval source management (drainage of breeding sites)
+- Environmental management
+- Community awareness
+- Early diagnosis and treatment
+
+Dengue Control:
+- Water container management (remove standing water)
+- Bed net use (daytime biting mosquitoes)
+- Repellent use
+- Protective clothing
+- Community mobilization
+- Early case detection
+
+Tick-borne Disease Control:
+- Protective clothing
+- Inspect body after outdoor activity
+- Proper removal of ticks
+- Safe pesticide use (if needed)
+- Animal management
+
+Other Vectors:
+- Sanitation improvements (diarrheal disease reduction)
+- Waste management
+- Animal control (rabies, plague)
+- Dietary measures (food safety)
+
+SECTION 8: FOOD AND WATER SAFETY
+===============================
+
+Water Safety:
+- Source protection
+- Treatment (boiling, chlorination, filtration)
+- Safe storage
+- Water quality monitoring
+- Promotion of use
+
+Boiling:
+- 1 minute rolling boil adequate
+- Higher altitudes: 3 minutes
+- Inexpensive, reliable method
+- Needs fuel
+
+Chlorination:
+- Household level (bleach 0.5-1.0 mL per liter)
+- Monitor residual chlorine
+- Good for stored water
+
+Filtration:
+- Sand filters
+- Ceramic filters
+- Cloth filters (basic)
+- Combination approaches most effective
+
+Food Safety:
+- Clean: Wash hands, utensils, produce
+- Separate: Raw and cooked foods
+- Cook: Proper temperatures
+- Chill: Refrigerate perishables
+- Consume: Use before spoilage
+
+Risk Foods:
+- Raw meats
+- Raw seafood (if from contaminated water)
+- Unpasteurized dairy
+- Raw produce from contaminated water
+- Unrefrigerated prepared foods
+
+Food Storage:
+- Clean, dry containers
+- Covered
+- Proper temperature
+- Away from pests
+- Separate from toxins/chemicals
+
+SECTION 9: HYGIENE AND SANITATION PROMOTION
+==========================================
+
+Community Education:
+- Critical for disease prevention
+- Focus on:
+  - Handwashing
+  - Toilet use
+  - Water safety
+  - Food hygiene
+  - Waste management
+
+Behavior Change:
+- Identify barriers
+- Address misconceptions
+- Positive role models
+- Community participation
+- Incentives (sometimes)
+- Repeated messaging
+
+Key Messages:
+1. Handwashing prevents disease
+2. Latrines must be used
+3. Drinking water must be clean
+4. Food must be cooked well
+5. Waste must be disposed properly
+6. Vaccination protects children
+
+Monitoring:
+- Coverage rates
+- Compliance
+- Health outcomes
+- Community feedback
+
+SECTION 10: ANTIMICROBIAL RESISTANCE
+===================================
+
+Problem:
+- Overuse of antibiotics
+- Inappropriate use
+- Incomplete treatment courses
+- Use in animals
+- Poor infection control
+- Creates resistant organisms
+
+Consequences:
+- Treatment failures
+- Prolonged illness
+- Higher mortality
+- Increased costs
+- Untreatable infections
+
+Prevention Strategies:
+1. Antibiotic Stewardship:
+   - Use only when necessary
+   - Use appropriate agent
+   - Use correct dose
+   - Use correct duration
+   - Avoid combination therapy unnecessarily
+
+2. Infection Control:
+   - Reduce transmission
+   - Vaccination
+   - Sanitation
+   - Reduces antibiotic need
+
+3. Surveillance:
+   - Track resistant organisms
+   - Guide treatment
+   - Identify outbreaks
+
+4. Regulation:
+   - Prescription requirements
+   - Ban over-the-counter sales
+   - Control in agriculture
+   - Limit veterinary use
+
+5. Education:
+   - Healthcare workers
+   - Patients
+   - Community
+   - About appropriate use
+   - About not sharing antibiotics
+
+Clinical Practice:
+- Culture before antibiotics when possible
+- Choose narrow-spectrum when possible
+- Use correct dose for correct duration
+- Avoid unnecessary combinations
+- Monitor response
+- Switch to narrower spectrum if possible
+- De-escalate when appropriate
+
+Patient Education:
+- Take complete course even if feeling better
+- Do not share antibiotics
+- Do not save leftover antibiotics
+- Do not pressure for antibiotics for viral illnesses
+- Proper use prevents resistance
+
+END OF INFECTIOUS DISEASE SURVEILLANCE AND CONTROL GUIDELINES
+============================================================

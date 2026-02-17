@@ -1,0 +1,1695 @@
+RURAL HEALTHCARE CLINICAL GUIDELINES
+=====================================
+
+SECTION 1: ACUTE FEVER AND COMMON INFECTIONS
+==============================================
+
+1.1 FEVER - GENERAL MANAGEMENT
+
+Definition: Body temperature > 38°C (100.4°F)
+
+Causes in Rural Settings:
+- Malaria
+- Typhoid fever
+- Dengue fever
+- Common cold
+- Flu (Influenza)
+- Pneumonia
+- Urinary tract infections
+- Other viral infections
+
+Assessment:
+- Ask about: onset, duration, pattern, associated symptoms
+- Check: temperature, respiratory rate, pulse, blood pressure
+- Examine: throat, lymph nodes, lungs, abdomen, skin
+
+Red Flag Symptoms (Refer URGENTLY - HIGH):
+- High fever (> 40°C) not responding to paracetamol
+- Severe headache with stiff neck (possible meningitis)
+- Difficulty breathing or chest pain
+- Confusion or altered consciousness
+- Severe weakness or inability to drink
+- Signs of severe dehydration
+- Bleeding from gums, nose, or in stool
+- Jaundice (yellow eyes/skin)
+- Abdominal pain with rigid abdomen
+
+Home Management for Simple Fever:
+1. Rest - ensure adequate sleep
+2. Hydration - drink plenty of water, ORS, juice
+3. Nutrition - light, easy-to-digest food
+4. Temperature control:
+   - Wear light clothing
+   - Use light bedding
+   - Sponging with lukewarm water (NOT cold)
+5. Medications:
+   - Paracetamol 500mg every 4-6 hours (max 3000mg/day)
+   - OR Ibuprofen 200-400mg every 6-8 hours (with food)
+
+Fever in Children:
+- Strip off excess clothing
+- Use tepid sponging (lukewarm water on forehead, armpits, groin)
+- Offer frequent fluids
+- Paracetamol: 15mg/kg/dose every 4-6 hours (max 5 doses/24 hours)
+- Ibuprofen: 10mg/kg/dose every 6-8 hours
+
+When to Refer (MEDIUM Urgency):
+- Fever lasting > 7 days
+- Fever with persistent cough
+- Fever with rash
+- Fever in child < 3 months
+- Fever in pregnant woman
+- Fever with pain in specific body parts
+- Fever not improving with home care
+
+1.2 MALARIA
+
+Symptoms:
+- Fever (often cyclical - high fever followed by sweating)
+- Chills and rigors
+- Headache
+- Muscle and joint pain
+- Weakness and fatigue
+- Nausea and vomiting
+- Diarrhea
+
+Risk Factors:
+- Living in malaria endemic areas
+- Poor sanitation
+- Stagnant water nearby
+- Recent travel to malaria areas
+
+Prevention:
+- Sleep under insecticide-treated mosquito net
+- Wear long sleeves and pants in evening
+- Avoid standing water
+- Use mosquito repellent
+- Drainage of stagnant water
+
+Diagnosis Clues:
+- Cyclical fever pattern (every 48-72 hours)
+- History of recent travel or living in malaria area
+- Associated with rainy season
+
+When to Refer (HIGH Urgency):
+- Severe malaria with complications
+- Malaria with breathing difficulty
+- Malaria with severe anemia
+- Malaria in pregnancy
+- Malaria in child < 5 years
+- Persistent fever after treatment
+- Confusion or seizures
+
+Home Care While Awaiting Referral:
+- Rest
+- Drink plenty of fluids
+- Paracetamol for fever
+- Light meals
+- Keep mosquito net in place
+
+1.3 TYPHOID FEVER
+
+Symptoms:
+- Gradual onset of fever
+- Headache
+- Body aches
+- Loss of appetite
+- Sometimes constipation (unlike typical fever)
+- Weakness
+- In 3rd week: rose spots on trunk, abdominal distension, delirium
+
+Duration: Typically 3-4 weeks if untreated
+
+Transmission:
+- Contaminated water
+- Poor food handling
+- Poor sanitation
+
+Prevention:
+- Drink boiled or treated water
+- Proper food hygiene
+- Good hand hygiene
+- Vaccination (if available)
+- Sanitation improvements
+
+When to Refer (HIGH Urgency):
+- Suspected typhoid (based on symptoms and epidemiology)
+- Fever lasting > 7 days
+- Complications: intestinal perforation, shock, encephalopathy
+- Any severe illness with gradual fever
+
+Home Support While Awaiting Referral:
+- Rest complete bed rest
+- Fluids - oral rehydration solution
+- Soft, nutritious foods
+- Paracetamol for fever
+- Watch for complications
+
+1.4 DENGUE FEVER
+
+Symptoms (Classic):
+- Sudden onset high fever (39-40°C)
+- Severe headache
+- Retro-orbital pain (pain behind eyes)
+- Muscle and bone pain
+- Joint pain
+- Rash (typically appears 3-4 days after fever onset)
+- Mild bleeding (gum bleed, nosebleed)
+- Nausea and vomiting
+
+Duration: Usually 5-7 days
+
+Transmission:
+- Aedes mosquito (bites during day)
+- Urban and semi-urban areas
+- More common in rainy season
+
+Red Flags for Dengue Hemorrhagic Fever (Refer URGENTLY - HIGH):
+- Fever subsiding but worsening symptoms
+- Severe abdominal pain
+- Persistent vomiting
+- Bleeding (gums, nose, in stool)
+- Black/tarry stools
+- Lethargy or restlessness
+- Cold, clammy skin
+- Severe weakness
+
+Home Care for Uncomplicated Dengue:
+1. Rest - complete bed rest
+2. Hydration - oral rehydration solution, water, juices
+3. Fever management - paracetamol (NOT aspirin or ibuprofen)
+4. Nutrition - light, easy-to-digest foods
+5. Monitoring - watch for warning signs
+6. Mosquito protection - keep mosquito net
+
+When to Refer (MEDIUM to HIGH):
+- Any bleeding manifestations
+- Severe abdominal pain
+- Persistent vomiting
+- Lethargy or restlessness
+- Fever lasting > 7 days
+- Worsening of symptoms after fever subsides
+
+
+SECTION 2: RESPIRATORY INFECTIONS
+==================================
+
+2.1 COMMON COLD
+
+Symptoms:
+- Runny or blocked nose
+- Sneezing
+- Sore throat
+- Mild cough
+- Low-grade fever (may or may not be present)
+- Mild headache
+- General malaise
+
+Cause: Viral (usually rhinovirus)
+
+Duration: 3-7 days typically
+
+Home Management:
+1. Rest - adequate sleep
+2. Fluids - water, warm tea, soup
+3. Throat care:
+   - Gargle with salt water (1/2 tsp salt in warm water)
+   - Throat lozenges
+   - Honey (soothing)
+4. Nasal care:
+   - Saline nasal drops/spray
+   - Elevate head while sleeping
+5. Fever/pain - paracetamol as needed
+6. Avoid irritants - smoke, dust
+
+When to Refer (MEDIUM):
+- Worsening after 7 days
+- Fever > 39°C
+- Severe sore throat with difficulty swallowing
+- Cough with colored sputum
+- Any breathing difficulty
+- Signs of pneumonia
+
+2.2 ACUTE COUGH
+
+Assessment:
+Duration:
+- Acute cough: < 2 weeks
+- Subacute cough: 2-8 weeks
+- Chronic cough: > 8 weeks
+
+Associated Symptoms:
+- Sputum production (productive vs dry)
+- Fever
+- Breathing difficulty
+- Chest pain
+- Hemoptysis (coughing blood)
+
+Causes:
+- Common cold
+- Bronchitis
+- Pneumonia
+- Whooping cough
+- Asthma
+- TB (if prolonged)
+- Aspiration
+
+Red Flags (Refer URGENTLY - HIGH):
+- Severe breathing difficulty
+- Chest pain with breathing
+- Coughing blood
+- Blue lips or fingernails
+- Altered mental status
+- Very high fever
+- Severe weakness
+
+Home Care for Simple Cough:
+1. Hydration - water, warm fluids
+2. Humidity - steam inhalation
+3. Elevated position - sleep with head raised
+4. Throat soothing:
+   - Honey and lemon in warm water
+   - Ginger tea
+   - Throat lozenges
+5. Avoid irritants - smoke, dust
+6. Cough suppressants:
+   - Dextromethorphan for dry cough
+   - Expectorants for productive cough
+7. Paracetamol if fever
+
+When to Refer (MEDIUM):
+- Persistent cough > 2 weeks
+- Productive cough with colored/bloody sputum
+- Associated fever > 38.5°C
+- Breathing difficulty
+- Chest pain
+- Cough not improving in 5-7 days
+- Patient age < 2 years or > 60 years
+- History of TB exposure
+
+2.3 PNEUMONIA
+
+Symptoms:
+- Cough (productive, with greenish/yellowish sputum)
+- Fever (often high)
+- Chest pain (worse with breathing)
+- Shortness of breath
+- Rapid breathing
+- General weakness
+
+Risk Factors:
+- Recent upper respiratory infection
+- Smoking
+- Alcohol abuse
+- Bedridden patients
+- Elderly
+- Children < 5 years
+- Chronic diseases (diabetes, heart disease)
+
+Danger Signs (Refer URGENTLY - HIGH):
+- Difficulty breathing
+- Chest indrawing (visible drawing in of ribs/abdomen)
+- Nasal flaring
+- Stridor (noisy breathing)
+- Very high fever (> 39.5°C)
+- Altered consciousness
+- Inability to drink or persistent vomiting
+- Cyanosis (blue lips/fingernails)
+
+Home Care While Awaiting Referral:
+1. Position - semi-upright position to ease breathing
+2. Hydration - encourage fluid intake
+3. Fever - paracetamol
+4. Oxygen if available
+5. Monitor breathing rate and signs of deterioration
+
+2.4 WHOOPING COUGH (Pertussis)
+
+Symptoms:
+- Starts like common cold (runny nose, sneezing)
+- Dry cough develops in 1-2 weeks
+- After 2 weeks, characteristic "whoop" sound during inspiration
+- Coughing fits, often worse at night
+- Vomiting after cough
+- Exhaustion
+- Fever usually absent
+
+Duration: Can last 6-8 weeks or longer
+
+High Risk Complications:
+- Infants < 6 months
+- Unvaccinated children
+
+Red Flags (Refer URGENTLY - HIGH):
+- Infant with whooping cough
+- Severe coughing fits
+- Difficulty breathing
+- Cyanosis during cough
+- Convulsions
+- Vomiting and weight loss
+- Respiratory distress
+
+Prevention:
+- Vaccination (DPT vaccine)
+- Avoiding contact with infected persons
+- Droplet precautions
+
+Isolation:
+- First 5 days of antibiotic treatment
+- Keep away from infants
+
+Home Care While Awaiting Treatment:
+- Isolation from others
+- Monitor breathing
+- Ensure nutrition despite cough
+- Keep in upright position
+- Calm environment
+
+
+SECTION 3: GASTROINTESTINAL CONDITIONS
+=======================================
+
+3.1 ACUTE DIARRHEA
+
+Definition: Passage of 3 or more loose/watery stools in 24 hours
+
+Causes:
+- Contaminated food/water
+- Poor hygiene
+- Viral infection
+- Bacterial infection
+- Parasitic infection
+
+Assessment:
+- Duration and frequency
+- Consistency (watery, bloody)
+- Associated symptoms (fever, vomiting, abdominal pain)
+- Dehydration status
+- Recent travel/food
+
+Dehydration Signs:
+Mild-Moderate:
+- Increased thirst
+- Dry mouth
+- Decreased urine
+- Mild lethargy
+
+Severe (Refer URGENTLY - HIGH):
+- Extreme thirst
+- Very dry mouth and tongue
+- Little or no urine
+- Severe lethargy or confusion
+- Sunken eyes
+- Weak pulse
+- Low blood pressure
+- Skin tenting (pinched skin returns slowly)
+
+Red Flag Symptoms (Refer URGENTLY - HIGH):
+- Severe dehydration signs
+- Blood in stool
+- Severe abdominal pain
+- High fever (> 39°C)
+- Vomiting everything, cannot keep fluids down
+- Signs of septic shock
+- Age < 6 months
+- Elderly or chronic illness
+
+Home Management - ORAL REHYDRATION (Most Important):
+
+ORS Recipe (if not available):
+- 1 liter clean water
+- 6 teaspoons sugar
+- 1/2 teaspoon salt
+- Juice or flavoring (optional)
+
+ORS Administration:
+- Frequent small amounts (5-10 mL every few minutes)
+- After each stool: 10 mL/kg ORS
+- Continue until urine volume normal
+
+Foods to Give (Bland Diet):
+- Rice
+- Bread
+- Bananas
+- Potatoes
+- Boiled vegetables
+- Chicken or fish (well-cooked)
+
+AVOID:
+- Dairy products
+- High fat foods
+- High fiber foods
+- Sugary drinks
+- Spicy foods
+
+Medications:
+- Antidiarrheals (loperamide) - AVOID in bloody diarrhea or high fever
+- Antibiotics - only if bloody diarrhea or specific bacterial cause
+
+When to Refer (MEDIUM):
+- Diarrhea lasting > 14 days
+- Blood in stool
+- Severe abdominal pain
+- Signs of dehydration despite ORS
+- Unable to drink or frequent vomiting
+- Very high fever
+- Age < 1 year
+
+3.2 CHOLERA
+
+Symptoms:
+- Sudden onset watery diarrhea ("rice-water" stools)
+- Vomiting
+- Rapid dehydration
+- Weakness
+- Muscle cramps
+- Low blood pressure
+- Shock if untreated
+
+Transmission:
+- Contaminated water
+- Poor sanitation
+
+Prevention:
+- Safe drinking water
+- Food hygiene
+- Hand hygiene
+- Sanitation
+- Vaccination (if available)
+
+Urgent Referral (HIGH):
+- Suspected cholera
+- Signs of severe dehydration
+- Signs of shock
+
+Home Care While Awaiting Referral:
+- Immediate aggressive rehydration with ORS
+- IV fluids needed at referral center
+- Continue feeding if tolerated
+- Isolation from others
+
+3.3 ABDOMINAL PAIN
+
+Assessment:
+- Location of pain
+- Character (sharp, dull, cramping)
+- Onset and duration
+- Associated symptoms
+- Recent meals, injuries, bowel habits
+
+Causes (Common):
+- Gastritis/indigestion
+- Constipation
+- Diarrhea
+- Food poisoning
+- Worms
+- Urinary/kidney issues
+- Appendicitis
+- Intestinal obstruction
+
+Red Flags Requiring Urgent Referral (HIGH):
+- Severe pain (patient in distress)
+- Rigid abdomen
+- Abdominal distension with pain
+- Persistent vomiting
+- Blood in vomit or stool
+- Pain after trauma
+- Signs of shock
+- Fever with severe pain
+- Pain in pregnant woman
+
+Home Care for Mild Abdominal Pain:
+1. Rest lying down
+2. Warm compress on abdomen
+3. Light diet
+4. Avoid dairy, fatty foods
+5. Hydration with water, ORS
+6. Antacids if indigestion suspected
+7. Observe for worsening
+
+When to Refer (MEDIUM):
+- Pain lasting > 24 hours
+- Increasing pain
+- Associated with fever
+- Vomiting persisting > 4 hours
+- Diarrhea with severe pain
+- Unresponsive to home care
+
+
+SECTION 4: MATERNAL AND CHILD HEALTH
+====================================
+
+4.1 PREGNANCY-RELATED COMPLICATIONS
+
+Danger Signs in Pregnancy (Refer URGENTLY - HIGH):
+- Vaginal bleeding
+- Severe abdominal pain
+- Severe headache with vision changes
+- Swelling of face and hands
+- Convulsions/seizures
+- Unconsciousness
+- Difficulty breathing
+- Chest pain
+- Fever with chills
+- Foul-smelling vaginal discharge
+- Severe weakness/dizziness
+- Loss of baby movement (after 5 months)
+
+First Trimester (0-13 weeks):
+Miscarriage signs:
+- Vaginal bleeding
+- Abdominal cramps
+- Passage of tissue
+
+Ectopic pregnancy (implantation outside uterus):
+- Severe abdominal pain (often one-sided)
+- Vaginal bleeding
+- Shoulder pain
+- Dizziness/fainting
+
+REFER URGENTLY for any bleeding or severe pain
+
+Second Trimester (14-26 weeks):
+- Preterm labor signs: vaginal bleeding, fluid leakage, contractions
+- Infections: fever, discharge, pain
+REFER URGENTLY
+
+Third Trimester (27 weeks-delivery):
+Pre-eclampsia/Eclampsia Signs:
+- High blood pressure
+- Swelling of face, hands, feet
+- Severe headache
+- Vision changes
+- Epigastric pain (upper abdomen)
+- Seizures (eclampsia)
+REFER URGENTLY - HIGH
+
+Preterm Labor:
+- Regular contractions < 37 weeks
+- Vaginal bleeding
+- Fluid leakage
+- Pelvic pressure
+REFER URGENTLY - HIGH
+
+Labor Complications:
+- Prolonged labor (> 12 hours, no progress)
+- Excessive bleeding
+- Signs of fetal distress
+- Cord prolapse (cord coming out first)
+REFER URGENTLY - HIGH
+
+4.2 POSTPARTUM COMPLICATIONS (After Delivery)
+
+Danger Signs (Refer URGENTLY - HIGH):
+- Excessive bleeding (> 500 mL or soaking pads)
+- Fever > 38°C
+- Severe abdominal pain
+- Foul-smelling discharge
+- Severe headache or vision changes
+- Breathing difficulty
+- Chest pain
+- Seizures
+- Confusion
+- Inability to urinate
+- Signs of blood clot (leg swelling, pain)
+
+Postpartum Hemorrhage:
+- Most common cause of maternal death
+- Can occur within hours of delivery
+- Requires urgent blood transfusion and treatment
+REFER IMMEDIATELY - HIGH
+
+Postpartum Infection (Sepsis):
+- Fever
+- Foul-smelling discharge
+- Abdominal tenderness
+- Chills
+- Rapid pulse
+REFER URGENTLY - HIGH
+
+4.3 NEWBORN CARE (First 28 Days)
+
+Danger Signs (Refer URGENTLY - HIGH):
+- Not eating or difficulty feeding
+- Jaundice (yellow color) on face/body in first 24 hours
+- Persistent jaundice beyond 2 weeks
+- Fever > 38°C
+- Difficulty breathing (fast breathing, indrawing)
+- Chest indrawing
+- Stridor
+- Convulsions
+- Severe lethargy/unresponsiveness
+- Severe diarrhea or vomiting
+- Umbilical cord redness, swelling, discharge
+- Bleeding from umbilical cord
+- Swelling of fontanelle (soft spot on head)
+- Skin boils or pustules spreading
+- Inability to pass urine or stool
+
+Cord Care:
+- Keep dry and clean
+- Do NOT apply harmful substances (ash, oil, etc.)
+- Observe for infection signs
+- Umbilicus should separate by day 7-14
+
+Jaundice in Newborns:
+- Common in first 3-5 days (physiological)
+- Watch for excessive jaundice (dark urine, pale stools)
+- Excessive jaundice can cause brain damage
+- Refer if severe or persistent
+
+Feeding:
+- Exclusive breastfeeding for first 6 months if possible
+- Proper latch is important
+- Newborn should feed 8-12 times per 24 hours
+- Watch for adequate milk transfer
+
+Home Care:
+- Keep warm (skin-to-skin contact)
+- Hygiene for umbilical cord
+- Daily gentle bathing
+- Regular feeding
+- Sleep in safe place (not on soft surfaces)
+- Immediate referral for danger signs
+
+4.4 CHILD ILLNESS (1 Month - 5 Years)
+
+General Danger Signs in Children (Refer URGENTLY - HIGH):
+- Difficulty breathing or fast breathing
+- Chest indrawing
+- Stridor
+- Severe malnutrition or wasting
+- Severe dehydration
+- Lethargy or unresponsiveness
+- Unconsciousness
+- Convulsions/seizures
+- Neck stiffness
+- Rash (petechial or purpuric)
+- Severe abdominal distension or pain
+- Persistent vomiting
+- Bloody diarrhea
+- Blood in urine or stool
+- Paleness or cyanosis (blue color)
+- Severe anemia
+- Hypothermia (low body temperature)
+- Severe malaria
+- Severe pneumonia
+- Very high fever (> 40°C) not responding to treatment
+
+Dehydration in Children (Refer URGENTLY if SEVERE - HIGH):
+Mild-Moderate:
+- Increased thirst
+- Dry mucous membranes
+- Decreased tears
+- Decreased urine output
+- Skin turgor slightly reduced
+
+Severe:
+- Extreme thirst or lethargy
+- Very dry mouth
+- No tears
+- Sunken eyes
+- Skin tenting
+- Weak pulse
+- Low blood pressure
+- Altered consciousness
+
+Management:
+- ORS: 50-100 mL/kg over 4 hours
+- Reassess and continue as needed
+
+Malnutrition:
+- Height/weight below normal for age
+- Visible ribs, hip bones, spine
+- Edema (swelling) in feet
+- Loose, dry skin
+- Behavioral changes
+
+Refer for nutritional rehabilitation
+
+Common Infections:
+- Respiratory tract infections
+- Diarrhea/gastroenteritis
+- Malaria
+- Measles
+- Whooping cough
+- Meningitis
+
+Vaccination:
+- Follow national immunization schedule
+- Keep vaccination records
+- Complete all vaccines for optimal protection
+
+
+SECTION 5: COMMON PARASITIC INFECTIONS
+======================================
+
+5.1 HELMINTH (WORM) INFECTIONS
+
+Types:
+- Roundworms (Ascaris)
+- Hookworms
+- Tapeworms
+- Whipworms
+
+Symptoms:
+- Abdominal pain
+- Diarrhea or constipation
+- Anemia
+- Malnutrition
+- Itching around anus
+- Visible worms in stool
+- General weakness
+
+Risk Factors:
+- Poor sanitation
+- Bare foot walking (hookworms)
+- Poor food hygiene
+- Contaminated water
+
+Prevention:
+- Proper sanitation (latrine use)
+- Wearing shoes
+- Hand hygiene before eating
+- Food hygiene
+- Water treatment
+
+Treatment:
+- Deworming medications (mebendazole, albendazole)
+- Often available at community health centers
+- May be given periodically to all children
+
+5.2 GIARDIASIS AND AMEBIASIS
+
+Symptoms:
+- Diarrhea (sometimes greasy/fatty)
+- Abdominal cramps
+- Flatulence and bloating
+- Weight loss
+- General weakness
+
+Transmission:
+- Contaminated water
+- Poor hygiene
+
+Prevention:
+- Clean drinking water
+- Hand hygiene
+- Food hygiene
+- Sanitation
+
+Treatment:
+- Specific medications needed
+- Refer if symptoms persist
+
+5.3 SCHISTOSOMIASIS
+
+Risk:
+- Contact with contaminated freshwater
+- Bathing/swimming in affected areas
+
+Symptoms:
+- Acute: fever, rash, itching
+- Chronic: anemia, malnutrition, weakness
+
+Prevention:
+- Avoid contaminated water
+- Proper sanitation
+
+
+SECTION 6: CHRONIC CONDITIONS MANAGEMENT
+==========================================
+
+6.1 HYPERTENSION (High Blood Pressure)
+
+Normal: < 120/80 mmHg
+Elevated: 120-129/<80
+Stage 1: 130-139/80-89
+Stage 2: ≥ 140/90
+
+Symptoms (Often None):
+- Sometimes: headache, dizziness, chest discomfort
+- Often called "silent killer"
+
+Risk Factors:
+- Age > 45 years (men), > 55 (women)
+- Family history
+- Obesity
+- High salt intake
+- Sedentary lifestyle
+- Smoking
+- Excessive alcohol
+- Stress
+- Diabetes
+- Chronic kidney disease
+
+Danger Signs (Refer URGENTLY - HIGH):
+- Severe headache with fever
+- Chest pain or pressure
+- Difficulty breathing
+- Severe vision changes
+- Severe dizziness
+- Confused or altered consciousness
+- Blood pressure > 180/120 with symptoms
+- Weakness/numbness of face, arm, leg (stroke signs)
+
+Home Management:
+1. Regular blood pressure monitoring
+2. Lifestyle changes:
+   - Reduce salt intake
+   - Healthy diet (fruits, vegetables)
+   - Regular exercise (150 min/week)
+   - Weight loss if overweight
+   - Limit alcohol
+   - Stress management
+   - Sleep well
+   - Avoid tobacco
+3. Medications:
+   - Take as prescribed
+   - Don't stop suddenly
+   - Keep records of BP readings
+
+When to Refer:
+- BP consistently > 160/100 despite lifestyle changes
+- BP readings > 180/120
+- Any symptoms of hypertension complications
+- Difficult to control BP
+- Side effects from medications
+
+6.2 DIABETES MELLITUS
+
+Type 2 (Common in Rural Areas):
+Symptoms:
+- Increased thirst
+- Frequent urination
+- Increased hunger
+- Unexplained weight loss
+- Fatigue
+- Blurred vision
+- Slow healing wounds
+
+Risk Factors:
+- Family history
+- Obesity
+- Sedentary lifestyle
+- Age > 45 years
+- Gestational diabetes history
+
+Danger Signs (Refer URGENTLY - HIGH):
+- Diabetic ketoacidosis: fruity breath, rapid breathing, confusion
+- Hypoglycemia: confusion, sweating, rapid heartbeat, anxiety
+- Severe infections/wounds
+- Vision loss
+- Severe abdominal pain
+- Chest pain
+- Difficulty breathing
+
+Home Management:
+1. Blood sugar monitoring (if possible)
+2. Diet:
+   - Regular meals
+   - Whole grains
+   - Vegetables
+   - Limit sugar/sweets
+   - Portion control
+3. Exercise: 150 minutes moderate activity/week
+4. Weight management
+5. Medications: as prescribed
+6. Foot care:
+   - Daily inspection for wounds
+   - Keep clean and dry
+   - Wear proper shoes
+   - See healthcare worker for corns/calluses
+7. Oral health: regular brushing, dental care
+
+When to Refer (MEDIUM):
+- Blood sugar consistently high (> 250 mg/dL)
+- Any signs of complications
+- Suspected hypoglycemia
+- Infections not healing
+- New vision problems
+- Symptoms of kidney disease
+- Chest pain
+- Severe headache
+
+6.3 ASTHMA
+
+Symptoms:
+- Recurrent coughing (especially at night, during play)
+- Wheezing (whistling sound while breathing)
+- Shortness of breath
+- Chest tightness
+- Fatigue
+
+Triggers:
+- Dust, smoke
+- Cold air
+- Exercise
+- Infections
+- Allergens
+- Strong emotions
+- Air pollution
+
+Asthma Attack Signs (Refer URGENTLY - HIGH):
+- Severe difficulty breathing
+- Inability to speak full sentences
+- Severe wheezing or no sound at all
+- Pale or blue lips
+- Panic or confusion
+- Rapid, weak pulse
+- Unconsciousness
+
+Home Management:
+1. Identify and avoid triggers
+2. Keep rescue inhaler available
+3. Use medications as prescribed:
+   - Quick-relief inhalers (blue) for acute symptoms
+   - Maintenance inhalers (usually brown/orange) daily
+4. Peak flow monitoring (if available)
+5. Avoid smoke, dust, pollution
+6. Regular exercise appropriate to condition
+7. Keep home clean and dry
+
+When to Refer (MEDIUM to HIGH):
+- Frequent asthma attacks
+- Symptoms not controlled with medications
+- Difficulty using inhaler
+- Suspected asthma diagnosis
+- Any acute severe attack
+
+6.4 CHRONIC OBSTRUCTIVE PULMONARY DISEASE (COPD)
+
+Risk Factors:
+- Smoking
+- Indoor air pollution (cooking fires, biomass)
+- Occupational exposures
+- Chronic respiratory infections
+
+Symptoms:
+- Persistent cough
+- Sputum production
+- Shortness of breath
+- Wheezing
+- Chest tightness
+- Fatigue
+
+Red Flags (Refer URGENTLY - HIGH):
+- Severe breathing difficulty
+- Severe cough with blood
+- Altered consciousness
+- Severe weakness
+- Blue lips or fingernails
+- Edema of legs
+
+Home Management:
+1. Smoking cessation (if applicable)
+2. Reduce air pollution exposure
+3. Breathing exercises
+4. Medications: as prescribed
+5. Vaccination: influenza, pneumococcal
+6. Activity as tolerated
+7. Nutrition support
+
+When to Refer (MEDIUM):
+- Worsening symptoms
+- Persistent cough
+- Exacerbations
+- Suspected COPD diagnosis
+
+
+SECTION 7: INJURIES AND ACCIDENTS
+=================================
+
+7.1 MINOR WOUNDS AND CUTS
+
+Management:
+1. Clean hands first
+2. Wash wound with clean water
+3. Remove debris if necessary
+4. Control bleeding:
+   - Apply direct pressure with clean cloth
+   - Elevate if possible
+   - Continue pressure for 5-10 minutes
+5. Wash with soap and clean water
+6. Dry with clean cloth
+7. Apply antibiotic ointment
+8. Cover with sterile dressing if needed
+9. Keep clean and dry
+10. Remove dressing daily, inspect, reapply
+
+When to Refer (MEDIUM):
+- Deep cuts (gaping edges)
+- Cuts on face or joints
+- Cuts from dirty objects
+- Animal bites
+- Cut with bleeding that won't stop after 15 minutes
+- Signs of infection (redness, warmth, pus, swelling)
+
+7.2 BURNS
+
+Classification:
+Superficial (1st degree):
+- Red skin, no blistering
+- Pain
+
+Partial thickness (2nd degree):
+- Blistering
+- Erythema (redness)
+- Severe pain
+
+Full thickness (3rd degree):
+- Charred or white appearance
+- No pain sensation
+- Loss of function
+
+Management of Minor Burns (< 5% body surface):
+1. Cool immediately:
+   - Cool running water for 5-20 minutes
+   - Do NOT use ice
+2. Remove restrictive jewelry/clothing
+3. Dry with clean cloth
+4. Do NOT apply toothpaste, oil, butter
+5. Apply antibiotic ointment
+6. Cover with sterile non-adherent dressing
+7. Pain relief: paracetamol, ibuprofen
+8. Tetanus prophylaxis if needed
+9. Monitor for infection
+
+When to Refer URGENTLY (HIGH):
+- Burns > 10% body surface (any depth)
+- Any full-thickness burn
+- Burns of face, hands, genitals, joints
+- Circumferential burns (around limb)
+- Inhalation injury (stridor, singed nasal hair, carbonaceous sputum)
+- Chemical burns
+- Electrical burns
+- Burns in children < 5 years or elderly
+
+7.3 FRACTURES AND SPRAINS
+
+Fracture Signs:
+- Severe pain
+- Swelling
+- Deformity
+- Inability to use limb
+- Crepitus (crackling sensation)
+
+Sprain Signs:
+- Pain
+- Swelling
+- Bruising
+- Limited movement
+- Usually less severe than fracture
+
+First Aid for Fractures (Refer URGENTLY - HIGH):
+1. Immobilize:
+   - Make sling for arm
+   - Splint leg (using cardboard, padding)
+   - Keep still
+2. Ice/cold: first 24 hours
+3. Elevation: reduce swelling
+4. Analgesia: paracetamol, ibuprofen
+5. Tetanus: if skin broken
+
+Home Care for Sprains:
+- RICE protocol:
+  - Rest: immobilize for first 24-48 hours
+  - Ice: 15-20 minutes every 3 hours for first 48 hours
+  - Compression: elastic bandage
+  - Elevation: above heart level
+- Analgesia: paracetamol, ibuprofen
+- Gradual mobilization after acute phase
+
+When to Refer (MEDIUM to HIGH):
+- Suspected fractures
+- Severe sprains
+- Unable to bear weight or use limb
+- Severe swelling
+- Deformity
+- Fractures in children
+- Fractures near joints
+
+7.4 HEAD INJURIES
+
+Mild (No Loss of Consciousness):
+- Headache
+- Mild dizziness
+- Slight confusion
+
+Severe Signs (Refer URGENTLY - HIGH):
+- Loss of consciousness
+- Altered consciousness
+- Vomiting (multiple times)
+- Severe headache
+- Seizures
+- Bleeding from ears, nose, mouth
+- Clear fluid from nose/ears
+- Severe dizziness
+- Inability to remember events
+
+Home Care for Mild Head Injury:
+1. Rest lying down
+2. Ice pack to head (20 minutes at a time)
+3. Observation every hour for 24 hours
+4. Pain relief: paracetamol
+5. Watch for danger signs
+
+Observation Points:
+- Consciousness level
+- Breathing pattern
+- Pupil size and reaction
+- Vomiting
+- Seizures
+- Confusion or behavior changes
+
+When to Refer (MEDIUM to HIGH):
+- Any loss of consciousness
+- Vomiting after injury
+- Seizures
+- Severe headache
+- Any danger signs
+- Multiple head injuries
+- Elderly or on blood thinners
+
+7.5 ANIMAL BITES
+
+Management:
+1. Wash wound:
+   - Copious amounts of water
+   - With soap
+   - For at least 5 minutes
+2. Control bleeding
+3. Dry with clean cloth
+4. Antibiotic ointment
+5. Dressing if needed
+6. Assess rabies risk:
+   - Type of animal (dog, cat, bat, etc.)
+   - Was it provoked?
+   - Was it vaccinated (if known)?
+7. Tetanus prophylaxis
+8. Rabies post-exposure prophylaxis:
+   - Rabies vaccination series (if high risk)
+   - Rabies immunoglobulin (if high risk)
+
+Refer URGENTLY (HIGH) for:
+- Animal bites
+- Facial bites
+- Bites over joints
+- Deep wounds
+- Possible rabies exposure
+- Any bite that looks infected
+
+
+SECTION 8: SKIN CONDITIONS
+==========================
+
+8.1 COMMON SKIN INFECTIONS
+
+Bacterial Infections:
+- Impetigo:
+  - Honey-crusted sores
+  - Contagious
+  - Often in children
+  - Treatment: antibacterial cream/ointment
+  - Oral antibiotics if widespread
+  
+- Cellulitis:
+  - Spreading redness, warmth
+  - Swelling, pain
+  - Sometimes fever
+  - Refer URGENTLY - requires IV antibiotics
+
+Fungal Infections:
+- Ringworm (Tinea):
+  - Red circular patches
+  - Itching
+  - Common in children
+  - Spread by contact
+  - Treatment: antifungal cream
+  - Oral medication if severe or resistant
+
+- Candidiasis:
+  - White patches/plaques
+  - May have red, irritated base
+  - Itching/burning
+  - Treatment: antifungal cream or tablets
+
+Parasitic:
+- Scabies:
+  - Itching (worse at night)
+  - Burrows (fine lines on skin)
+  - Common in children
+  - Spread by contact
+  - Treatment: scabicide lotion
+  - Treat household members
+
+- Lice:
+  - Itching
+  - Visible lice or nits
+  - Treatment: insecticidal shampoo
+  - Comb out nits
+
+8.2 ECZEMA (Dermatitis)
+
+Symptoms:
+- Itching (intense, often worse at night)
+- Dry, sensitive skin
+- Red, inflamed skin
+- Small raised bumps
+- Blisters and oozing if severe
+- Cracked, swollen, darkened skin
+
+Triggers:
+- Soap, detergents
+- Water exposure
+- Heat, sweating
+- Stress
+- Dust, pollen
+- Certain fabrics
+
+Home Care:
+1. Moisturize:
+   - Apply lotion/cream frequently
+   - Use immediately after bathing
+2. Bathing:
+   - Use lukewarm water
+   - Short baths/showers
+   - Gentle cleanser
+   - Pat dry
+3. Avoid triggers
+4. Use soft clothing
+5. Manage stress
+6. Antihistamines for itching
+7. Topical corticosteroid cream if available
+
+When to Refer (MEDIUM):
+- Severe symptoms
+- Signs of infection
+- Not responding to home care
+- Affecting daily activities
+- Widespread involvement
+
+8.3 ALLERGIC REACTIONS AND HIVES
+
+Mild Reaction:
+- Itching
+- Rash (hives)
+- Mild swelling
+
+Treatment:
+- Remove allergen if possible
+- Cool compresses
+- Antihistamine (cetirizine, chlorpheniramine)
+- Hydrocortisone cream for itching
+
+Severe Reaction (Anaphylaxis - Refer URGENTLY - HIGH):
+- Difficulty breathing
+- Throat swelling
+- Lip/tongue swelling
+- Severe itching/hives
+- Dizziness
+- Weakness
+- Shock
+- Loss of consciousness
+
+Common Allergens:
+- Foods: peanuts, seafood, milk, eggs
+- Medications: antibiotics
+- Insect stings/bites
+- Latex
+- Chemicals
+
+
+SECTION 9: PREVENTION AND HEALTH PROMOTION
+===========================================
+
+9.1 VACCINATION
+
+Routine Immunizations (Follow National Schedule):
+- BCG (Tuberculosis): Birth
+- Polio: 6, 10, 14 weeks + boosters
+- DPT (Diphtheria, Pertussis, Tetanus): 6, 10, 14 weeks + boosters
+- Hepatitis B: Birth + schedule
+- Hib (Haemophilus influenzae): 6, 10, 14 weeks
+- PCV (Pneumococcal): Schedule varies
+- MMR (Measles, Mumps, Rubella): 9-12 months
+- Varicella (Chickenpox): varies
+- Typhoid: varies
+- Japanese Encephalitis: varies (endemic areas)
+
+Adults:
+- Tetanus booster every 10 years
+- Influenza annually
+- Pneumococcal for elderly/chronic conditions
+- HPV vaccine for adolescents
+
+Special Populations:
+- Pregnant women: Tetanus during pregnancy
+- Healthcare workers: Hepatitis B, influenza
+- Travelers: Depends on destination
+
+Importance:
+- Prevents serious diseases
+- Reduces complications
+- Protects community
+- Cost-effective
+
+9.2 HYGIENE AND SANITATION
+
+Hand Hygiene:
+- Wash before eating
+- After toilet
+- After handling dirt/garbage
+- Before preparing food
+- After caring for sick person
+
+Technique:
+1. Wet hands with clean water
+2. Apply soap
+3. Rub hands for 20 seconds:
+   - Palms
+   - Between fingers
+   - Back of hands
+   - Thumbs
+   - Under nails
+4. Rinse well
+5. Dry with clean cloth
+
+Sanitation:
+- Use proper latrine/toilet
+- Cover human waste
+- Proper disposal of garbage
+- Keep water clean
+- Separate water for drinking/cooking/washing
+- Clean kitchen and food storage
+- Animal waste management
+
+Water Safety:
+- Use treated/boiled water for drinking
+- Boiling: 1 minute at rolling boil
+- Chemical treatment: chlorination
+- Filtration: sand filters
+- Storage: covered containers
+
+Food Hygiene:
+- Keep raw and cooked foods separate
+- Cook food thoroughly
+- Avoid raw animal products unless safe
+- Keep food covered
+- Clean utensils
+- Don't leave food at room temperature > 2 hours
+
+9.3 NUTRITION
+
+Balanced Diet Components:
+1. Carbohydrates (45-65% calories):
+   - Rice, wheat, millet, corn
+   - Vegetables
+   - Legumes
+   - Avoid refined sugars
+
+2. Protein (10-35% calories):
+   - Beans, lentils
+   - Nuts, seeds
+   - Eggs
+   - Poultry, fish
+   - Milk products
+
+3. Fat (20-35% calories):
+   - Use healthy oils
+   - Limit saturated fat
+   - Avoid trans fats
+
+4. Vitamins and Minerals:
+   - Leafy vegetables (Iron, Calcium, A, C, K)
+   - Orange/red vegetables (Vitamin A)
+   - Fruits (Vitamin C, fiber)
+   - Dairy (Calcium, Protein)
+   - Nuts/seeds (Minerals)
+
+Special Needs:
+- Pregnant women: Extra calories, iron, calcium, folic acid
+- Breastfeeding: Extra calories, nutrients
+- Children: Adequate growth nutrition
+- Elderly: Adequate nutrition, easy to digest
+
+Undernutrition Signs:
+- Low weight for height/age
+- Muscle wasting
+- Delayed growth/development
+- Frequent infections
+- Pale appearance
+- Edema
+- Behavior changes
+
+9.4 PHYSICAL ACTIVITY
+
+Benefits:
+- Strengthens heart, muscles, bones
+- Improves mental health
+- Reduces chronic disease risk
+- Helps maintain healthy weight
+- Improves sleep
+
+Recommendations:
+- Adults: 150 minutes moderate activity/week
+- Children: 60 minutes daily
+- Include strength training 2x/week
+
+Activities:
+- Brisk walking
+- Running
+- Cycling
+- Swimming
+- Gardening
+- Sports
+- Farming/manual work
+
+9.5 INFECTIOUS DISEASE PREVENTION
+
+Respiratory:
+- Cover cough/sneeze with elbow
+- Keep distance from sick people
+- Ventilate rooms
+- Avoid smoke
+
+Waterborne:
+- Safe water for drinking
+- Proper sanitation
+- Food hygiene
+
+Bloodborne:
+- Safe disposal of needles
+- Avoid sharing sharp objects
+- Practice safe injection procedures
+- Healthcare worker precautions
+
+Vector-borne (Malaria, Dengue):
+- Mosquito nets
+- Avoid mosquito breeding sites
+- Insect repellent
+- Long sleeves in evening
+- Vaccination if available
+
+Sexual Health:
+- Barrier methods
+- Regular STI testing
+- Communication with partners
+- Vaccination (HPV)
+
+
+SECTION 10: FIRST AID AND EMERGENCY PROCEDURES
+===============================================
+
+10.1 BASIC LIFE SUPPORT
+
+When to Start CPR:
+- Unconscious
+- Not breathing
+- No pulse
+
+CPR Procedure:
+1. Check responsiveness and breathing
+2. Call for help
+3. Position person on firm surface
+4. Head tilt, chin lift to open airway
+5. Start chest compressions:
+   - Place heel of one hand on center of chest
+   - Place other hand on top
+   - Push hard and fast (100-120 compressions per minute)
+   - Compress at least 2 inches (5 cm) depth
+6. After 30 compressions, give 2 rescue breaths:
+   - Open airway
+   - Pinch nose closed
+   - Seal lips around mouth
+   - Give 2 full breaths
+7. Continue CPR until:
+   - Person wakes up
+   - Pulse returns
+   - Emergency help arrives
+   - You become exhausted
+
+10.2 CHOKING
+
+Signs:
+- Inability to speak or cry
+- Weak or no cough
+- Inability to breathe
+- Skin turning blue
+
+For Conscious Adult/Older Child:
+1. Ask "Are you choking?" (If nods, proceed)
+2. Stand behind person
+3. Make fist above navel, below ribcage
+4. Grasp fist with other hand
+5. Perform quick upward thrusts
+6. Repeat until object comes out or person becomes unconscious
+
+For Conscious Infant (< 1 year):
+- Alternate back blows and chest thrusts
+
+For Unconscious Person:
+- Begin CPR
+- Check mouth for object after 30 compressions
+- Remove if visible
+- Continue CPR
+
+10.3 SHOCK
+
+Signs:
+- Cold, clammy skin
+- Pale appearance
+- Rapid, weak pulse
+- Rapid breathing
+- Weak or confused
+- Nausea
+- Thirst
+
+Causes:
+- Severe bleeding
+- Heart problems
+- Severe infections
+- Severe allergic reaction
+- Dehydration
+- Trauma
+
+Management:
+1. Call for emergency help
+2. Lay person down
+3. Elevate legs (unless head/chest injury)
+4. Keep warm with blanket
+5. Do not give food/drink
+6. Monitor breathing and pulse
+7. Treat underlying cause if possible
+8. Provide reassurance
+
+10.4 SEVERE BLEEDING
+
+Management:
+1. Safety first: wear gloves if available
+2. Apply direct pressure:
+   - Use clean cloth
+   - Press firmly on wound
+   - Do NOT remove first cloth (add more if needed)
+   - Continue for 5-10 minutes
+3. Elevate if possible
+4. Apply pressure points if limb bleeding:
+   - Inner arm for arm bleeding
+   - Groin for leg bleeding
+5. Apply tourniquet if life-threatening limb bleeding:
+   - 2-3 inches above wound
+   - Mark time applied
+   - Remove only in hospital
+6. Treat for shock
+7. Seek emergency care
+
+10.5 POISONING
+
+Common Toxins:
+- Medications (overdose)
+- Pesticides
+- Chemicals
+- Heavy metals
+- Corrosives
+- Plants/mushrooms
+- Alcohol
+
+Management:
+1. Call poison control/emergency
+2. Remove from source if safe
+3. Do NOT induce vomiting (may worsen)
+4. Try to identify poison
+5. Give activated charcoal if available (some poisons only)
+6. Monitor breathing and consciousness
+7. Treat symptoms as they develop
+8. Keep sample/container for identification
+
+10.6 ENVIRONMENTAL EMERGENCIES
+
+Heat Stroke:
+- High body temperature
+- No sweating
+- Confusion, altered consciousness
+- Hot, dry skin
+- Rapid pulse
+Management:
+- Move to cool place
+- Cool body (cool water, ice packs to armpits/groin)
+- Fluids if conscious
+- Refer URGENTLY
+
+Heat Exhaustion:
+- Heavy sweating
+- Weakness, dizziness
+- Nausea
+- Normal or slightly high temperature
+Management:
+- Move to cool place
+- Remove excess clothing
+- Cool body
+- Sip water
+
+Hypothermia (Low Body Temperature):
+- Shivering
+- Confusion
+- Slurred speech
+- Slow pulse and breathing
+Management:
+- Move to warm place
+- Remove wet clothing
+- Gradual warming
+- Warm fluids if conscious
+- Refer URGENTLY
+
+Dehydration:
+Signs:
+- Excessive thirst
+- Dry mouth
+- Weakness
+- Headache
+- Dark urine
+- Rapid pulse
+Management:
+- Oral fluids: water, ORS
+- Monitor urine output
+- Rest
+- Refer if severe
+
+Hypothermia:
+Prevention:
+- Appropriate clothing for weather
+- Shelter from elements
+- Regular meals and fluids
+
+
+END OF COMPREHENSIVE MEDICAL GUIDELINES
+========================================
+
+These guidelines provide preliminary guidance for rural healthcare workers and community health volunteers. Always refer to higher-level facilities when in doubt. Keep updated with local and national health guidelines. This document should complement formal medical training and supervision.
+
+Important: This is an educational resource. Always follow:
+1. Local health authority guidelines
+2. National treatment protocols
+3. Established clinical practices
+4. Refer when uncertain
+5. Maintain confidentiality and ethics
